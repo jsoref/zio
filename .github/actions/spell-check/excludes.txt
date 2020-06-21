@@ -1,0 +1,11 @@
+^\.github/actions/spell-check/
+\.ai$
+\.eps$
+\.ico$
+\.jpg$
+\.pdf$
+\.png$
+\.psd$
+\.svg$
+(?:^|/)build\.sbt$
+(?:^|/)plugins\.sbt$
